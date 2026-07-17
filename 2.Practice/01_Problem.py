@@ -1,21 +1,68 @@
 # Write a program to print Twinkle twinkle little star poem in python.
-print("""Twinkle, twinkle, little star,
-How I wonder what you are!
-Up above the world so high,
-Like a diamond in the sky.
-When the blazing sun is gone,
-When he nothing shines upon,
-Then you show your little light,
-Twinkle, twinkle, all the night.
-Then the traveller in the dark,
-Thanks you for your tiny spark;
-He could not see which way to go,
-If you did not twinkle so.
-In the dark blue sky you keep,
-And often through my curtains peep,
-For you never shut your eye,
-Till the sun is in the sky.
-As your bright and tiny spark
-Lights the traveller in the dark,
-Though I know not what you are,
-Twinkle, twinkle, little star""")
+print("""Gimme, gimme, gimme some time to think
+I'm in the bathroom, looking at me
+Face in the mirror is all I need (ooh)
+Wait until the reaper takes my life
+Never gonna get me out alive
+I will live a thousand million lives (ooh)
+
+My patience is waning
+Is this entertaining?
+Our patience is waning
+Is this entertaining?
+
+I-I-I got this feeling, yeah, you know
+Where I'm losing all control
+'Cause there's magic in my bones
+I-I-I got this feeling in my soul
+Go ahead and throw your stones
+'Cause there's magic in my bones
+
+Playing with a stick of dynamite
+There was never gray in black and white
+There was never wrong 'til there was right (ooh, oh)
+Feeling like a boulder hurtling
+Seeing all the vultures circling
+Burning in the flames I'm working in
+Turning in a bed that's darkening
+
+My patience is waning
+Is this entertaining?
+Our patience is waning
+Is this entertaining?
+
+I-I-I got this feeling, yeah, you know
+Where I'm losing all control
+'Cause there's magic in my bones (in my bones)
+I-I-I got this feeling in my soul
+Go ahead and throw your stones
+'Cause there's magic in my bones
+
+'Cause there's magic in my bones
+
+Look in the mirror of my mind
+Turning the pages of my life
+Walking the path so many paced a million times
+Drown out the voices in the air
+Leaving the ones that never cared
+Picking the pieces up and building to the sky
+
+My patience is waning
+Is this entertaining?
+My patience is waning
+Is this entertaining?
+
+I-I-I got this feeling, yeah, you know
+Where I'm losing all control
+'Cause there's magic in my bones (magic in my bones)
+I-I-I got this feeling in my soul (soul)
+Go ahead and throw your stones
+'Cause there's magic in
+
+There goes my mind (I-I-I)
+Don't mind
+There goes my mind (there it goes, there it goes)
+There goes my mind (I-I-I)
+Don't mind (there it goes)
+There goes my mind
+'Cause there's magic in my bones""")
