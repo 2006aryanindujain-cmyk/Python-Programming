@@ -1,10 +1,7 @@
+# Write a python program to print the contents of a directory using the os module. Search online for the function which does that.
 import os
 
-#select a directory whose content you wnat to list
-path = "D:\REPOSITORIES"
-
-#use the os module to list the directory contents
+path = r"D:\REPOSITORIES"
 contents = os.listdir(path)
-
 for item in contents:
     print(item)
