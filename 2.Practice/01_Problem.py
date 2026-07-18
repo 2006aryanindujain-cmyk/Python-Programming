@@ -1,4 +1,4 @@
-# Write a program to print Twinkle twinkle little star poem in python.
+# Write a program to print bones song in python.
 print("""Gimme, gimme, gimme some time to think
 I'm in the bathroom, looking at me
 Face in the mirror is all I need (ooh)
