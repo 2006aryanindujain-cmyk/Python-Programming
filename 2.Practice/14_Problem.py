@@ -1,6 +1,4 @@
-#  Replace the double space from problem 3 with single spaces.
+#  Write a program to format the following letter using escape sequence characters.
 
-name = "Harry is a good  boy and  "
-print(name.replace("  ", " "))
-print(name)
-# Strings are immutable which means that you cannot change them by running functions on them
+letter = "Dear Aryan,\n\tyou are doing great.\n\tKeep up the good work.\n\tThanks!"
+print(letter)
