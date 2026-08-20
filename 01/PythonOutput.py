@@ -1,0 +1,10 @@
+# Python is a case sensitive language.
+print("Hello World")
+print("Aryan Jain")
+print(5 == 5)
+print("Hello", 1, 4.5, True)
+print(7.7)
+print(True)
+print("Hello", 1, 4.5, True, sep="/")
+print("Hello", end=" ")
+print("World")
